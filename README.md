@@ -1,6 +1,6 @@
 
 <p align=center>
-<image src = "./assets/logo.png" width = 200 >
+<image src = "https://github.com/FBIOpenUpp/paynless/blob/main/assets/logo.png" width = 200 >
 </p>
 
 
@@ -64,8 +64,8 @@ Time Constraint: Time was a very big factor to build our prototype since it is a
 
 ## Client App
     
-<image src = "./assets/images/user_app.png" width = 1000 >
+<image src = "https://github.com/FBIOpenUpp/paynless/blob/main/assets/user_app.png" width = 1000 >
 
 ## Partner App
 
-<image src = "./assets/images/partner_app.png" width = 1000 >
+<image src = "https://github.com/FBIOpenUpp/paynless/blob/main/assets/partner_app.png" width = 1000 >
