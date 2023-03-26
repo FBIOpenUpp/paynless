@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506935118159",
+    "project_id": "paynless-16145",
+    "storage_bucket": "paynless-16145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506935118159:android:a170629315b68f112add3a",
+        "android_client_info": {
+          "package_name": "com.tb.paynless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506935118159-vtk0ov5vknbadock304bl06m7oa1226s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHZSQdCFoDBB6PDC7EYv9judHeePnQnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506935118159-7gvbiocrr9s7sdcmsp2s9ou00i28511q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

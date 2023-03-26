@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "506935118159",
+    "project_id": "paynless-16145",
+    "storage_bucket": "paynless-16145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506935118159:android:a170629315b68f112add3a",
+        "android_client_info": {
+          "package_name": "com.tb.paynless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506935118159-t8ae3ss31o9tgohseu8ioe4er09us2n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tb.paynless",
+            "certificate_hash": "76067387ebdd950073cead6f6eefbdf95a90faaf"
+          }
+        },
+        {
+          "client_id": "506935118159-vtk0ov5vknbadock304bl06m7oa1226s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHZSQdCFoDBB6PDC7EYv9judHeePnQnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506935118159-7gvbiocrr9s7sdcmsp2s9ou00i28511q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506935118159-eivkomh9ar66avcqjmma7al6jcv825pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paynless"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506935118159:android:e3eb92547e2d42232add3a",
+        "android_client_info": {
+          "package_name": "com.tb.paynless.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506935118159-vtk0ov5vknbadock304bl06m7oa1226s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHZSQdCFoDBB6PDC7EYv9judHeePnQnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506935118159-7gvbiocrr9s7sdcmsp2s9ou00i28511q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506935118159-eivkomh9ar66avcqjmma7al6jcv825pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paynless"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

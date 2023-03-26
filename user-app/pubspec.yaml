@@ -1,0 +1,63 @@
+name: paynless
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  quickalert: ^1.0.1
+  settings_ui: ^2.0.2
+  geolocator: ^9.0.2
+  url_launcher: ^6.1.10
+  flutter_zoom_drawer: ^3.0.4+1
+  intl: ^0.17.0
+  android_intent_plus: ^3.1.6
+  permission_handler: ^10.2.0
+  getwidget: ^3.0.1
+  cached_network_image: ^3.2.3
+  image_picker: ^0.8.7
+  share_plus: ^6.3.1
+  fluttertoast: ^8.1.1
+  google_sign_in: ^6.0.2
+  dio: ^5.0.3
+  provider: ^6.0.5
+  shared_preferences: ^2.0.20
+  get_storage: ^2.1.1
+  file_picker: ^5.2.6
+  velocity_x: ^3.4.0
+  package_info_plus: ^3.0.3
+  font_awesome_flutter: ^10.4.0
+  firebase_core: ^2.8.0
+  flutter_map: ^3.1.0
+  lottie: ^2.3.0
+  page_transition: ^2.0.9
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.12.0
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/anims/
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+  min_sdk_android: 21
