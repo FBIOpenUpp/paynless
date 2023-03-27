@@ -1,8 +1,6 @@
-
 <p align=center>
 <image src = "https://github.com/FBIOpenUpp/paynless/blob/main/assets/logo.png" width = 200 >
 </p>
-
 
 # <p align=center> Paynless </p>
 
@@ -14,21 +12,17 @@
 
 ---
 
-> Do _instant_ payments at your nearby shops .  
-
+> Do _instant_ payments at your nearby shops .
 
 ## 🚀 About Paynless
 
-Paynless is a android app where user can do payments to nearby shops UPI ID's without any QR code hassle.  
+Paynless is a android app where user can do payments to nearby shops UPI ID's without any QR code hassle.
+
 ## Features
 
-- _QR-less_ transactions for shops 
-- Get popup for quick payment at your nearby shop 
+- _QR-less_ transactions for shops
+- Get popup for quick payment at your nearby shop
 - Easy and intuitive UI for ease-of-use.
-
-
-
-
 
 ## Tech Stack
 
@@ -36,34 +30,22 @@ Paynless is a android app where user can do payments to nearby shops UPI ID's wi
 
 **Server:** Django REST , Django Channels
 
-
-
-
 ## License
-
-
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-
-
-
-
 ## Inspiration
 
-We've seen many users to ask for QR code for UPI payments at campus shops / canteens , the problem in QR code is sometimes it is difficult for customers to scan or find the correct QR code and do payment at shops , so we come accross a solution where our app will provide all the possible payment UPI id's to the customer with an easy to understant User Interaface and details .
-
+We have noticed that many customers at campus shops and canteens struggle to scan or locate the correct QR code for making UPI payments. To address this issue, we have come up with a solution where our app provides all possible UPI IDs for payment to the customer, in an easy-to-understand user interface, along with relevant details.
 
 ## Challenges we ran into
 
-Time Constraint: Time was a very big factor to build our prototype since it is a very big project and to complete it within a limited time frame was a very big factor.
-
-
+Time was a major constraint in building our prototype, as it was a large project and completing it within a limited timeframe was a significant challenge.
 
 ## UI/ UX Designs
 
 ## Client App
-    
+
 <image src = "https://github.com/FBIOpenUpp/paynless/blob/main/assets/user_app.png" width = 1000 >
 
 ## Partner App
